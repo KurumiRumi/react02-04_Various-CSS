@@ -16,7 +16,7 @@ export const InlineStyle = () => {
     backgroundColor: "#abedd8",
     border: "none",
     padding: "8px",
-    brderRadius: "8px"
+    borderRadius: "8px"
   };
   return (
     <div style={containerStyle}>
